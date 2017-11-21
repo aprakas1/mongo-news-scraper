@@ -1,0 +1,28 @@
+#main{
+	background-color:#6666B2;
+	background-repeat: repeat;
+}
+.jumbotron {
+	font-family:arial;
+	font-weight:bold;
+	font-size:14px;
+}
+.individArticle{
+	background-color: #eee;
+	padding: 20px;
+	margin: 20px;
+}
+#mainButton{
+	background-color:#6666B2;
+	border:gray;
+	text-align:center;
+}
+#mainButton:hover {
+	background-color:#414153;
+}
+#commentContainer{
+	background-color: #eee;
+	padding: 25px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
